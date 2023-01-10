@@ -1,1 +1,2 @@
 python-3.8.8
+setuptools-57.5.0
